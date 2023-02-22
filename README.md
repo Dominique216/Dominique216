@@ -3,7 +3,7 @@
 
 - 🌱 I'm a coding bootcamp student looking to enter the field of software development
 
-- 🎯 Checkout my repos to some of the projects I've created during my journey 
+- 🎯 Checkout my repos to see some of the projects I've created during my journey 
 
 - 📍 I'm currently open to entry level software/javascript developer roles
 
