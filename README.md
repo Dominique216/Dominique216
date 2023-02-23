@@ -7,13 +7,24 @@
 
 - 📍 I'm currently open to entry level software/javascript developer roles
 
+
+## My Skills: 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,express,mysql,sequelize,mongodb,react" />
+  </a>
+</p>
+
+## My Stats
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dominique216&show_icons=true&theme=dark" />
   </a>
 <p>
 
-- 📫 How to reach me: 
+## 📫 How to reach me: 
 
 [![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)](mailto:raquel_0216@yahoo.com?subject=[GitHub])
 
