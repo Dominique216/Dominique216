@@ -1,7 +1,7 @@
 ### Welcome to my GitHub!
 ![Dominique Nix Javascript Developer (1)](https://user-images.githubusercontent.com/117382111/220497296-c0d1ab35-5748-44f6-8536-252394f1c16a.png)
 
-- 🌱 I'm a coding bootcamp student looking to enter the field of software development
+- 🌱 I'm a recent bootcamp graduate looking to enter the field of software development
 
 - 🎯 Checkout my repos to see some of the projects I've created during my journey 
 
