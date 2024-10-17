@@ -1,5 +1,5 @@
 ### Welcome to my GitHub!
-![Dominique Nix Javascript Developer (1)](https://user-images.githubusercontent.com/117382111/220497296-c0d1ab35-5748-44f6-8536-252394f1c16a.png)
+![Dominique Nix Javascript Developer (2)](https://github.com/user-attachments/assets/b5e28292-9498-48a9-834d-76bad9a14c7e)
 
 - 🌱 I'm a software enginnering appretice at google
 
