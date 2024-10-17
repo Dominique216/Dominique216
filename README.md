@@ -1,18 +1,18 @@
 ### Welcome to my GitHub!
 ![Dominique Nix Javascript Developer (1)](https://user-images.githubusercontent.com/117382111/220497296-c0d1ab35-5748-44f6-8536-252394f1c16a.png)
 
-- 🌱 I'm a recent bootcamp graduate looking to enter the field of software development
+- 🌱 I'm a software enginnering appretice at google
 
 - 🎯 Checkout my repos to see some of the projects I've created during my journey 
 
-- 📍 I'm currently open to entry level software/javascript developer roles
+- 📍 I'm currently open to entry level software engineer roles
 
 
 ## My Skills: 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,express,mysql,sequelize,mongodb,react" />
+    <img src="https://skillicons.dev/icons?i=js,java,ts,html,css,bootstrap,tailwind,nodejs,express,mysql,sequelize,mongodb,react,docker,git" />
   </a>
 </p>
 
